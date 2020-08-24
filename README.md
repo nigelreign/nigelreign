@@ -8,4 +8,4 @@ I am Nigel. I'm excited you decided to drop by and check my channel.
 - 💬 Ask me about conerstonejs, angular, php, ionic
 - 📫 How to reach me: zulunigelb@gmail.com
 
-- ⚡ Qoute: Invest On what makes you different
+- ☔ Invest On what makes you different ☔
