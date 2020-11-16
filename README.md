@@ -11,5 +11,5 @@ I am Nigel. I'm excited you decided to drop by and check my channel.
 - ☔ Invest On what makes you different ☔
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nigelreign&label=PROFILE+VIEWS" alt="xdvrx1" /> <a href="https://xdvrx1.github.io/"></a>
+  <img src="https://komarev.com/ghpvc/?username=nigelreign&label=MY+PROFILE+VIEWS" alt="xdvrx1" /> <a href="https://xdvrx1.github.io/"></a>
 </p>
