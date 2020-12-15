@@ -1,3 +1,6 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nigelreign&label=MY+PROFILE+VIEWS" alt="nigelreign" />
+
 ### Hi there 👋
 
 I am Nigel. I'm excited you decided to drop by and check my channel.
@@ -9,9 +12,3 @@ I am Nigel. I'm excited you decided to drop by and check my channel.
 - 📫 How to reach me: zulunigelb@gmail.com
 
 - ☔ Invest On what makes you different ☔
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=nigelreign&&show_icons=true&theme=tokyonight)](https://nigelreign.github.io/)
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nigelreign&label=MY+PROFILE+VIEWS" alt="nigelreign" />
