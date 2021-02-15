@@ -12,3 +12,9 @@ I am Nigel. I'm excited you decided to drop by and check my channel.
 - 📫 How to reach me: zulunigelb@gmail.com
 
 - ☔ Invest On what makes you different ☔
+
+## My Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigelreign&show_icons=true&theme=buefy "/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelreign&layout=compact&theme=buefy "/>
+
