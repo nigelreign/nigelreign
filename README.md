@@ -16,7 +16,7 @@ I am Nigel. I'm excited you decided to drop by and check my channel.
 ## My Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nigelreign&show_icons=true&theme=buefy&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelreign&layout=compact&theme=buefy&count_private=true"/>
+//<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelreign&layout=compact&theme=buefy&count_private=true"/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
+//<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
