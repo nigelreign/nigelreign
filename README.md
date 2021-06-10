@@ -2,6 +2,7 @@
  
 </p align="center">
 <!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
+![cooltext386316314011002](https://user-images.githubusercontent.com/37867005/121528700-03f10200-c9fc-11eb-8a35-0b99f920053e.png)
 
 <p align="center">
  
