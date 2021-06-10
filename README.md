@@ -7,7 +7,7 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/nigelreign/nigelreign"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/years/nigelreign"/>
  <img src="https://badges.pufler.dev/repos/nigelreign"/>
  <img src="https://badges.pufler.dev/commits/monthly/nigelreign" />
 
@@ -54,6 +54,6 @@
 <br>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=nigelreign&theme=redical">
 </p> 
 
