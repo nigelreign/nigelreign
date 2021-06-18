@@ -9,7 +9,6 @@
  <img src="https://badges.pufler.dev/visits/nigelreign/nigelreign"/> 
  <img src="https://badges.pufler.dev/years/nigelreign"/>
  <img src="https://badges.pufler.dev/repos/nigelreign"/>
- <img src="https://badges.pufler.dev/commits/monthly/nigelreign" />
 
 </p>
 
